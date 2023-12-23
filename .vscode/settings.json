@@ -1,0 +1,4 @@
+{
+    "bloc.newBlocTemplate.useSealedClasses": true,
+    "bloc.newBlocTemplate.createDirectory": true
+}
